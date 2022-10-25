@@ -1,2 +1,2 @@
-# BinodRaiDataAnalystProjectProfolio
+# BinodRaiProjectProfolio
 Data analysis project proforlio
